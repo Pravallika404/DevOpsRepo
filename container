@@ -1,0 +1,4 @@
+containers:
+    - command: ["sleep", "3600"]
+      name: pod-node-affinity-container
+      image: busybox
