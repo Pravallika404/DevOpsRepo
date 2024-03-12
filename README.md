@@ -1,2 +1,0 @@
-# DevOpsRepo
-commiting Kubernetes
